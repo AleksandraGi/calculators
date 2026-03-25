@@ -1,5 +1,11 @@
 # https://www.youtube.com/watch?v=28tj-IBfGH4
 
+# zmniejszyć zakres wyświetlacza
+# dodać pierwiastek
+# dodać przycisk usuwania pojedyczno
+# nie usuwać wszystkiego po wyborze znaku dzialania
+
+
 import tkinter
 
 button_values = [
