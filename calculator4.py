@@ -25,7 +25,7 @@ class Calculator:
         frame = tk.Frame(self.window, height=221, bg=LIGHT_GRAY)        # creates window with height and colour
         frame.pack(expand=True, fill="both")                            # putting frame into window (without it frame would be in memory but not displayed) (add the frame to window and allow it to expand everywhere is space)
                                                                         # expand=True - frame expands and takes extra space
-                                                                        # fill="both" - if there's space the frame expands where is space in both directions
+                                                                        # fill="both" - if there's space the frame expands where is space in both  directions
         return frame
     
     def create_buttons_frame(self):
